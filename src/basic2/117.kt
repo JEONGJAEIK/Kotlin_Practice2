@@ -1,4 +1,4 @@
-package basic
+package basic2
 
 fun main() {
     val collection = listOf("red", "green", "blue")

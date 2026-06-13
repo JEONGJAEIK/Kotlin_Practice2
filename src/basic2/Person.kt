@@ -1,4 +1,4 @@
-package basic
+package basic2
 
 class Person(
     val name: String, // <- 비공개 필드와 공개 게터 생성

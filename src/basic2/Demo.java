@@ -1,4 +1,4 @@
-package basic;
+package basic2;
 
 public class Demo {
     public static void main(String[] args) {

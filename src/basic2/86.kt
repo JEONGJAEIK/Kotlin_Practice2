@@ -1,4 +1,4 @@
-package basic//fun basic.main() {
+package basic2//fun basic.main() {
 //    val input = readln()
 //    val name = if (input.isNotBlank()) input else "Kotlin"
 //    println("Hello, $name!ddd")

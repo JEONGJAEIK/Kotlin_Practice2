@@ -7,11 +7,18 @@ interface Clickable {
 
 class Button : Clickable, Focusable {
     override fun click() = println("I was clicked")
+
+    override fun showOff() {
+        super<Clickable>.showOff()
+        super<Focusable>.showOff()
+    }
 }
 
 fun main() {
-    Button().click()
-    Button().showOff()
+    val button = Button()
+    button.showOff()
+    button.setFocus(true)
+    button.click()
 }
 
 interface Focusable {

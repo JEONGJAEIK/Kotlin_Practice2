@@ -1,4 +1,4 @@
-package basic
+package basic2
 
 enum class Color (
     val r: Int,

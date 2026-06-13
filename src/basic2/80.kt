@@ -1,4 +1,4 @@
-package basic//val x = if (myBoolean) 3 else 5
+package basic2//val x = if (myBoolean) 3 else 5
 //
 //val direction = when (inputString) {
 //    "u" -> UP

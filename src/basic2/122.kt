@@ -1,4 +1,4 @@
-package basic
+package basic2
 
 import java.io.BufferedReader
 import java.io.StringReader

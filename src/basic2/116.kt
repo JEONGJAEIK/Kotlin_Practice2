@@ -1,4 +1,4 @@
-package basic
+package basic2
 
 fun fizzBuzz(i: Int) = when {
     i % 15 == 0 -> "피즈버즈"

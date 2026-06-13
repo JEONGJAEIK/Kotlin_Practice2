@@ -1,4 +1,4 @@
-package basic
+package basic2
 
 class Rectangle(val height: Int, val width: Int) {
     val isSquare: Boolean

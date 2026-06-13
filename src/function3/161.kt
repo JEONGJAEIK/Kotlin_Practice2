@@ -1,4 +1,12 @@
 package function3
 
-class `161` {
+val kotlinLogo =
+    """
+    |  //
+    | //
+    |/ \
+    """.trimIndent()
+
+fun main() {
+    println(kotlinLogo)
 }
