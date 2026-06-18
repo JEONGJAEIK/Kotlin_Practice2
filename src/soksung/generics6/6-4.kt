@@ -1,7 +1,5 @@
 package soksung
 
-import kotlin.jvm.java
-
 //fun <T> checkType(items: List<Any>) {
 ////    if (items is List<T>) {
 ////        컴파일 오류 런타임에는 T가 어떤 타입인지 확인 할 수 없다.

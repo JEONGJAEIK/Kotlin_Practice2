@@ -1,4 +1,4 @@
-package soksung2
+package soksung.function4.soksung2
 
 import soksung.isAllUpperCase
 
