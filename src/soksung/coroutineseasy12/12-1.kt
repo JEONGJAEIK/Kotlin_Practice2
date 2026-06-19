@@ -10,3 +10,11 @@ suspend fun fetchDataFormServer(): String {
     println("데이터 다운로드 완료")
     return "서버 데이터"
 }
+
+suspend fun doSomethingSuspending() {
+    delay(100)
+}
+
+fun myRegularFunction() {
+//    doSomethingSuspending() 컴파일 오류
+}
